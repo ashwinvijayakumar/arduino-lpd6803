@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map LPD6803
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Lpd6803	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+clear	KEYWORD2
+show	KEYWORD2
+setNumLEDs	KEYWORD2
+setPixelColor	KEYWORD2
+getPixelColor	KEYWORD2
+setBrightness	KEYWORD2
+color	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+LPD6803_STARTBIT_MASK	LITERAL1
+LPD6803_SHIFT_BLUE	LITERAL1
+LPD6803_SHIFT_REG	LITERAL1
+LPD6803_SHIFT_GREEN	LITERAL1
+LPD6803_BRIGHTNESS_MIN	LITERAL1
+LPD6803_BRIGHTNESS_MAX	LITERAL1
