@@ -1,2 +1,2 @@
-# esp8266-lpd6803
-LPD6803 library for ESP8266-Arduino
+# Arduino LPD8266
+Arduino library for LPD6803 based LED strip
