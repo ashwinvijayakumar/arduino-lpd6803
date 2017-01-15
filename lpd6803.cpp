@@ -23,7 +23,7 @@
 /**
  * @file        lpd6803.cpp
  *
- * @brief       LPD6803 library for ESP8266-Arduino
+ * @brief       LPD6803 library for Arduino
  *
  * @date        Dec 31, 2016, 10:23:06 AM
  *
