@@ -20,9 +20,9 @@
 * SOFTWARE.
 *******************************************************************************/
 /**
- * @file        arduino-lpd6803-test.ino
+ * @file        arduino-lpd6803.ino
  *
- * @brief       LPD6308 LED Strip test code for Arduino 
+ * @brief       LPD6308 LED Strip color wipe test code for Arduino 
  *
  * @date        Jan 12, 2017, 10:28:04 PM
  *
